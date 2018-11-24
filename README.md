@@ -200,7 +200,7 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
 - Lectura-->[A Detailed Introduction to K-Nearest Neighbor (KNN) Algorithm](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/).
 - Lectura opcional-->[What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
 - Lectura opcional-->[KDD, SEMMA AND CRISP-DM: A parallel overview](http://recipp.ipp.pt/bitstream/10400.22/136/3/KDD-CRISP-SEMMA.pdf).
-- Diapositiva-->[Presentación 1](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/PresentacionML1.pdf).
+- Diapositiva-->[Presentación 1](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/Presentacion1ML.pdf).
 - [Tarea 1](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea1.ipynb)-->Presentación 12 de setiembre.
 
 ### Clase 2 : 15 de setiembre 
@@ -260,6 +260,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lectura-->[Gradient Boosting Explained](https://gormanalysis.com/gradient-boosting-explained/).
  - Lectura opcional-->[Understanding Random Forest from theory to practice](https://arxiv.org/pdf/1407.7502v3.pdf).
  - Lectura -->[XGBoost: A Scalable Tree Boosting System](http://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
+ - Diapositiva-->[Presentacion 4](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/Presentacion4ML.pdf).
  - [Tarea 7 (Examen)](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea7/Tarea7.ipynb) -->Presentación 17 de octubre.
 
  
