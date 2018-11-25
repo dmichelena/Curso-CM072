@@ -294,6 +294,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  ### Clase 12 : 17 de noviembre 
  
  - Cuaderno-->[Pipeline](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/22_Pipeline.ipynb).
+ - Lectura-->[Text Classification in Python: Pipelines, NLP, NLTK, Tf-Idf, XGBoost and more](https://medium.com/@chrisfotache/text-classification-in-python-pipelines-nlp-nltk-tf-idf-xgboost-and-more-b83451a327e0).
  - Cuaderno-->[Interfaz general de los pipelines](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Interfaz_pipeline/23_Interfaz_pipeline.ipynb).
  - [Tarea]()
  
