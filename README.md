@@ -201,7 +201,7 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
 - Lectura opcional-->[What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
 - Lectura opcional-->[KDD, SEMMA AND CRISP-DM: A parallel overview](http://recipp.ipp.pt/bitstream/10400.22/136/3/KDD-CRISP-SEMMA.pdf).
 - Diapositiva-->[Presentación 1](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/Presentacion1ML.pdf).
-- [Tarea 1](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea1.ipynb)-->Presentación 12 de setiembre.
+- [Tarea 1](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea1.ipynb)-->Presentación 12 de setiembre.
 
 ### Clase 2 : 15 de setiembre 
 
@@ -215,7 +215,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
   - Lectura opcional-->[The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
   - Diapositiva-->[Presentación 2](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/Presentacion2ML.pdf).
  - Lectura opcional-->[How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced).
- - [Tarea 2](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea2/Tarea2.ipynb)-->Presentación 22 de setiembre..
+ - [Tarea 2](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea2/Tarea2.ipynb)-->Presentación 22 de setiembre.
  
  ### Clase 3 : 22 de setiembre
  -  Lectura-->[Random Test/Train Split is not Always Enough](http://www.win-vector.com/blog/2015/01/random-testtrain-split-is-not-always-enough/).
@@ -226,7 +226,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Cuaderno-->[Estimación de clasificadores](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Estimacion_incertidumbre_clasificadores/09_Estimacion_Incertidumbre_clasificadores.ipynb).
  - Diapositiva-->[Presentacion 3](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/Presentacion3ML.pdf).
  - Lectura-->[Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) 
- - [Tarea 3](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea3/Tarea3.ipynb)-->Presentación 29 de setiembre.
+ - [Tarea 3](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea3/Tarea3.ipynb)-->Presentación 29 de setiembre.
  
  ### Clase 4 : 29 de setiembre
   - Lectura inicial-->[Feature Engineering: The key to predictive modeling](https://medium.com/@karanrajwanshi/feature-engineering-the-key-to-predictive-modeling-8f1935b3db4f).
@@ -234,7 +234,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lecturas:
     * [Understanding Feature Engineering-Continuous Numeric](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b).
     * [Understanding Feature Engineering-Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63).
- - [Tarea 4](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea4/Tarea4.ipynb)-->Presentación 3 de octubre.
+ - [Tarea 4](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea4/Tarea4.ipynb)-->Presentación 3 de octubre.
   
 
  ### Clase 5 : 3 de octubre
@@ -243,7 +243,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Cuaderno -->[Evaluación de modelos](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Evaluacion_modelos/18_Evaluacion_modelos.ipynb).
   - Cuaderno-->[Validación cruzada](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/19_Validacion_cruzada.ipynb).
  - Lectura-->[Cross-validation pitfalls when selecting and assessing regression and classification models](https://jcheminf.biomedcentral.com/track/pdf/10.1186/1758-2946-6-10).
- - [Tarea 5](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea5.ipynb)-->Presentación 9 de octubre.
+ - [Tarea 5](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea5.ipynb)-->Presentación 9 de octubre.
  
  
 ### Clase 6 : 6 de octubre
@@ -265,16 +265,14 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
 
  
  ### Clase 8 : 20 de octubre 
-
+ -  [Tarea 8](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea8.ipynb)--> Presentación 30 de noviembre.
  - Repaso-->[Gradient, Subgradient and how they may affect your grade](http://cs.nyu.edu/~dsontag/courses/ml16/slides/notes_convexity16.pdf).
  - Lectura-->[Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf).
  - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/SVM/07_SVM.ipynb).
  - Lectura -->[The Kernel Trick](https://dscm.quora.com/The-Kernel-Trick).
  - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
- - [Tarea 8](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea8.ipynb)--> Presentación 30 de noviembre.
  - [Tarea 9](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea9/Tarea9.ipynb)-->Presentación 5 de diciembre.
  
-
   
  ### Clase 9 : 3 de noviembre
  - Cuaderno-->[Aprendizaje no supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/10_Aprendizaje_noSupervisado.ipynb).
