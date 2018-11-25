@@ -271,7 +271,9 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/SVM/07_SVM.ipynb).
  - Lectura -->[The Kernel Trick](https://dscm.quora.com/The-Kernel-Trick).
  - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
- - [Tarea 8]().
+ - [Tarea 8](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea8.ipynb)--> Presentación 30 de noviembre.
+ - [Tarea 9](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea9/Tarea9.ipynb)-->Presentación 5 de diciembre.
+ 
 
   
  ### Clase 9 : 3 de noviembre
@@ -280,7 +282,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Video-->[Acerca de PCA](https://www.youtube.com/watch?v=kw9R0nD69OU).
  - Cuaderno opcional-->- Cuaderno-->[NFE y Manifold learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/12_NMF.ipynb).
  - Lectura-->[A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf).
- - [Tarea]().
+ - [Tarea 10](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea10/Tarea10.ipynb)-->Presentación 8 de diciembre.
  
  ### Clase 11 : 10 de noviembre
   - Cuaderno-->[Clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/13_Clustering.ipynb).
