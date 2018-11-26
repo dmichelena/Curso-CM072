@@ -281,6 +281,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - [Tarea 10](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea10/Tarea10.ipynb)-->Presentación 8 de diciembre.
  - Cuaderno opcional-->- Cuaderno-->[NFE y Manifold learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/12_NMF.ipynb).
  - Lectura-->[A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf).
+ - [Tarea 11](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea11.ipynb)-->Presentación 8 de diciembre.
  
  
  ### Clase 11 : 10 de noviembre
