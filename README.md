@@ -278,9 +278,10 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Cuaderno-->[Aprendizaje no supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/10_Aprendizaje_noSupervisado.ipynb).
  - Cuaderno-->[PCA](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/11_PCA.ipynb).
  - Video-->[Acerca de PCA](https://www.youtube.com/watch?v=kw9R0nD69OU).
+ - [Tarea 10](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea10/Tarea10.ipynb)-->Presentación 8 de diciembre.
  - Cuaderno opcional-->- Cuaderno-->[NFE y Manifold learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/12_NMF.ipynb).
  - Lectura-->[A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf).
- - [Tarea 10](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea10/Tarea10.ipynb)-->Presentación 8 de diciembre.
+ 
  
  ### Clase 11 : 10 de noviembre
   - Cuaderno-->[Clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/13_Clustering.ipynb).
@@ -289,14 +290,14 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
   - Interacción-->[Hierarchical Clustering in Action](https://joyofdata.shinyapps.io/hclust-shiny/).
   - Lectura-->[Tipos de clustering en scikit-learn](http://scikit-learn.org/stable/modules/clustering.html).
   - Cuaderno-->[Comparación y evaluación de clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/15_Comparacion_evaluacion_clustering.ipynb).
-  - [Tarea]().
+  - [Tarea 12]().
  
  ### Clase 12 : 17 de noviembre 
  
  - Cuaderno-->[Pipeline](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/22_Pipeline.ipynb).
  - Lectura-->[Text Classification in Python: Pipelines, NLP, NLTK, Tf-Idf, XGBoost and more](https://medium.com/@chrisfotache/text-classification-in-python-pipelines-nlp-nltk-tf-idf-xgboost-and-more-b83451a327e0).
  - Cuaderno-->[Interfaz general de los pipelines](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Interfaz_pipeline/23_Interfaz_pipeline.ipynb).
- - [Tarea 13](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea13/Tarea13.ipynb).
+ - [Tarea 13](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea13/Tarea13.ipynb)-->Presentación 11 de diciembre.
  
 
  ### Clase 13: 24 de noviembre
