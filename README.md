@@ -285,12 +285,13 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  
  ### Clase 11 : 10 de noviembre
   - Cuaderno-->[Clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/13_Clustering.ipynb).
+  - [Tarea 12](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea12/Tarea12.ipynb)-->Presentación 8 de diciembre.
   - Lectura opcional-->[Data Clustering: A Review](http://eprints.library.iisc.ernet.in/273/1/p264-jain.pdf).
   - Cuaderno-->[Clustering aglomerativo](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/14_Clustering_aglomerativo.ipynb).
   - Interacción-->[Hierarchical Clustering in Action](https://joyofdata.shinyapps.io/hclust-shiny/).
   - Lectura-->[Tipos de clustering en scikit-learn](http://scikit-learn.org/stable/modules/clustering.html).
   - Cuaderno-->[Comparación y evaluación de clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/15_Comparacion_evaluacion_clustering.ipynb).
-  - [Tarea 12]().
+
  
  ### Clase 12 : 17 de noviembre 
  
