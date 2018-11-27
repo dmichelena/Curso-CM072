@@ -307,15 +307,19 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - [Tarea 17](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea17/Tarea17.ipynb)-->Presentación 13 de diciembre.
  
 
- ### Clase 13: 24 de noviembre
+ ### Clase 13: 1 de diciembre
  - Cuaderno-->[Redes neuronales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/08_RedesNeuronales.ipynb).
   - Lectura-->[Deep learning](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf).
   - Lectura obligatoria-->[A Tutorial on Deep Learning Part 1:  Nonlinear Classifiers and The Backpropagation Algorithm](http://ai.stanford.edu/~quocle/tutorial1.pdf).
   - Lectura opcional-->[An overview of gradient descent optimizationalgorithms](https://arxiv.org/pdf/1609.04747.pdf).
   - Lectura obligatoria-->[How to train your Deep Neural Network](http://rishy.github.io/ml/2017/01/05/how-to-train-your-dnn/).
-  
-  ### Clase 15: 1 de diciembre
   - Introducción a Keras.
+  - Repaso opcional-->[TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+    - [](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD1.ipynb).
+    - [](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD2.ipynb).
+    - [](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD3.ipynb).
+    - [](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD4.ipynb).
+    - [](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD5.ipynb)
 
 ## Herramientas a  usar 
 
