@@ -290,28 +290,30 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
   - Lectura opcional-->[Data Clustering: A Review](http://eprints.library.iisc.ernet.in/273/1/p264-jain.pdf).
   - Cuaderno-->[Clustering aglomerativo](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/14_Clustering_aglomerativo.ipynb).
   - Interacción-->[Hierarchical Clustering in Action](https://joyofdata.shinyapps.io/hclust-shiny/).
+  - [Tarea 13](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea13.ipynb)-->Presentación 11 de diciembre.
   - Lectura-->[Tipos de clustering en scikit-learn](http://scikit-learn.org/stable/modules/clustering.html).
+  - [Tarea 14](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea14.ipynb)-->Presentación 11 de diciembre.
   - Cuaderno-->[Comparación y evaluación de clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/15_Comparacion_evaluacion_clustering.ipynb).
+  - [Tarea 15](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea15.ipynb)-->Presentación 11 de diciembre.
+
 
  
  ### Clase 12 : 17 de noviembre 
  
  - Cuaderno-->[Pipeline](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/22_Pipeline.ipynb).
  - Lectura-->[Text Classification in Python: Pipelines, NLP, NLTK, Tf-Idf, XGBoost and more](https://medium.com/@chrisfotache/text-classification-in-python-pipelines-nlp-nltk-tf-idf-xgboost-and-more-b83451a327e0).
+ - [Tarea 16](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea16/Tarea16.ipynb)-->Presentación 13 de diciembre.
  - Cuaderno-->[Interfaz general de los pipelines](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Interfaz_pipeline/23_Interfaz_pipeline.ipynb).
- - [Tarea 13](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea13/Tarea13.ipynb)-->Presentación 11 de diciembre.
+ - [Tarea 17](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea17/Tarea17.ipynb)-->Presentación 13 de diciembre.
  
 
  ### Clase 13: 24 de noviembre
  - Cuaderno-->[Redes neuronales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/08_RedesNeuronales.ipynb).
   - Lectura-->[Deep learning](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf).
   - Lectura opcional-->[An overview of gradient descent optimizationalgorithms](https://arxiv.org/pdf/1609.04747.pdf).
-  - [Tarea]().
   
   ### Clase 15: 1 de diciembre
   - Introducción a Keras.
-  - [Tarea]().
- 
 
 ## Herramientas a  usar 
 
