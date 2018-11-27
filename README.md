@@ -310,7 +310,9 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  ### Clase 13: 24 de noviembre
  - Cuaderno-->[Redes neuronales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/08_RedesNeuronales.ipynb).
   - Lectura-->[Deep learning](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf).
+  - Lectura obligatoria-->[A Tutorial on Deep Learning Part 1:  Nonlinear Classifiers and The Backpropagation Algorithm](http://ai.stanford.edu/~quocle/tutorial1.pdf).
   - Lectura opcional-->[An overview of gradient descent optimizationalgorithms](https://arxiv.org/pdf/1609.04747.pdf).
+  - Lectura obligatoria-->[How to train your Deep Neural Network](http://rishy.github.io/ml/2017/01/05/how-to-train-your-dnn/).
   
   ### Clase 15: 1 de diciembre
   - Introducción a Keras.
