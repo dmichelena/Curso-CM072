@@ -315,11 +315,11 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
   - Lectura obligatoria-->[How to train your Deep Neural Network](http://rishy.github.io/ml/2017/01/05/how-to-train-your-dnn/).
   - Introducción a Keras.
   - Repaso opcional-->[TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
-    - [](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD1.ipynb).
-    - [](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD2.ipynb).
-    - [](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD3.ipynb).
-    - [](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD4.ipynb).
-    - [](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD5.ipynb)
+     - [Introducción a las redes neuronales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD1.ipynb).
+      - [Agregando capas](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD2.ipynb).
+      - [Redes neuronales profundas](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD3.ipynb).
+      - [Decaimiento de la tasa de aprendizaje](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD4.ipynb).
+      - [Redes convolucionales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Repaso-deep-Learning/Codelab_TF_without_PhD5.ipynb).
 
 ## Herramientas a  usar 
 
