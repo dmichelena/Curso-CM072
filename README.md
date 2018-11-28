@@ -285,6 +285,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Cuaderno-->[Aprendizaje no supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/10_Aprendizaje_noSupervisado.ipynb).
  - Cuaderno-->[PCA](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/11_PCA.ipynb).
  - Video-->[Acerca de PCA](https://www.youtube.com/watch?v=kw9R0nD69OU).
+ -Diapositiva-->[Presentacion 8](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/Presentacion8ML.pdf).
  - [Tarea 10](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea10/Tarea10.ipynb)-->Presentación 8 de diciembre.
  - Cuaderno opcional-->- Cuaderno-->[NFE y Manifold learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/12_NMF.ipynb).
  - Lectura-->[A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf).
