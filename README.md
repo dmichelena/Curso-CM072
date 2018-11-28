@@ -2,6 +2,13 @@
 
 Curso elemental de python y las librerías scikit learn y keras aplicados al machine learning.
 
+Todas las diapositivas de este curso son parte del trabajo de los siguientes autores:
+
+* [Aikaterini Tzompanaki-Machine Learning](https://perso-etis.ensea.fr/tzompanaki/teaching.html).
+* [Andreas Mueller-COMS W4995 Applied Machine Learning Spring 2018](http://www.cs.columbia.edu/~amueller/comsw4995s18/).
+* [David Sotang- Introduction To Machine Learning Spring 2016](https://people.csail.mit.edu/dsontag/courses/ml16/).
+
+
 ## Introducción 
 
 * Cálculo
