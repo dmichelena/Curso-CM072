@@ -277,9 +277,11 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lectura-->[Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf).
  - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/SVM/07_SVM.ipynb).
  - Lectura -->[The Kernel Trick](https://dscm.quora.com/The-Kernel-Trick).
+ - Diapositiva-->[Presentación 5](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/Presentacion5ML.pdf).
  - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
  - [Tarea 9](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea9/Tarea9.ipynb)-->Presentación 5 de diciembre.
  
+
   
  ### Clase 9 : 3 de noviembre
  - Cuaderno-->[Aprendizaje no supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/10_Aprendizaje_noSupervisado.ipynb).
